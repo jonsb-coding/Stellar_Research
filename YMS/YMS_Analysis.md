@@ -14,5 +14,5 @@ The next question was, how big does a planet need to be in order to be habitable
 One of the biggest discrepancies of a planet would be its equilibrium temperature. High stellar metallicity emits radiation that affects the planet equilibrium temperature, causing a greenhouse effect. Finding planets that fit a certain range of temperature to allow water to stay in liquid form was done and plotted.
 ![Number of Planets and Metallicity](https://github.com/Jonnybobba/Stellar_Research/blob/main/YMS/Data%20PNG%20files/habitable_temps.png?raw=true)
 
-Although, having liquid water is important, the planet temperatures needed to be filtered even more to find planets that had an even more habitable planet, 5°C to 40°C, and found one single planet that fit this and all other requirements.\
+Although, having liquid water is important, the planet temperatures needed to be filtered even more to find planets that had an even more habitable temperatures, 5°C to 40°C, and found one single planet that fit this and all other requirements.\
 ![Number of Planets and Metallicity](https://github.com/Jonnybobba/Stellar_Research/blob/main/YMS/Data%20PNG%20files/same_temp.png?raw=true)
