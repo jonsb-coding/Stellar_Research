@@ -1,4 +1,7 @@
 # Stellar_Research
+## Summary
+An open study of the nasa stellar database using pandas and matplotlib to analyze relationships between star systems and vizualise the data cleanly and clearly.
+
 ## Importing data
 
 * The data needed for this analysis was from a database constructed by NASA.
